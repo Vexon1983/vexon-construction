@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-image: url('perth-skyline-night.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  text-align: center;
+}
+
+header {
+  background-color: rgba(17, 17, 17, 0.85);
+  padding: 20px;
+}
+
+.logo {
+  max-width: 200px;
+  margin-bottom: 10px;
+}
+
+nav a {
+  color: #00ccff;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 60px 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  margin: 20px auto;
+  border-radius: 12px;
+}
+
+a {
+  color: #00ccff;
+}
+
+footer {
+  background-color: rgba(17, 17, 17, 0.85);
+  padding: 15px;
+  font-size: 0.9em;
+  color: #888;
+}
